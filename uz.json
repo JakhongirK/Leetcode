@@ -7504,7 +7504,7 @@
       "type": "Feature", 
       "properties": {
         "source": "https://simplemaps.com", 
-        "id": "6", 
+        "id": "5", 
         "name": "Tashkent"
       }, 
       "id": 2
@@ -25390,7 +25390,7 @@
       "type": "Feature", 
       "properties": {
         "source": "https://simplemaps.com", 
-        "id": "5", 
+        "id": "6", 
         "name": "Tashkent"
       }, 
       "id": 14
